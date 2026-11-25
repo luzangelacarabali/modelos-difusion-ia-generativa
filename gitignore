@@ -1,10 +1,11 @@
+# Material de clase (no es de mi autoría)
+Materiales de clase/
+material de clase/
+Entregable*.pdf
+
 # Pesos de los modelos (se regeneran al correr los notebooks)
 *.weights.h5
 *.h5
-
-# Material de clase y enunciado (no son de mi autoría)
-material de clase/
-Entregable*.pdf
 
 # Archivos de sistema y de Jupyter
 .ipynb_checkpoints/
