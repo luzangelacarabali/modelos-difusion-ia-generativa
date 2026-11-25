@@ -1,10 +1,5 @@
 # Modelos generativos de imágenes basados en difusión
 
-**Universidad Autónoma de Occidente** · Facultad de Ingeniería y Ciencias Básicas
-Inteligencia Artificial Generativa · Ingeniería de Datos e Inteligencia Artificial
-Profesores: Jesús Alfonso López – José Luis Paniagua
-
-Autora: **Luz Ángela Carabalí Mulato** · [GitHub](https://github.com/luzangelacarabali) · [LinkedIn](https://www.linkedin.com/in/luz-angela-carabali-mulato-12b561306)
 
 ---
 
