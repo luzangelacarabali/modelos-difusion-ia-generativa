@@ -1,0 +1,6 @@
+*.weights.h5
+*.h5
+material de clase/
+Entregable*.pdf
+.ipynb_checkpoints/
+__pycache__/
