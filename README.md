@@ -1,11 +1,4 @@
 # Modelos generativos de imágenes basados en difusión
-
-**Universidad Autónoma de Occidente** · Facultad de Ingeniería y Ciencias Básicas
-Inteligencia Artificial Generativa · Ingeniería de Datos e Inteligencia Artificial
-Profesores: Jesús Alfonso López – José Luis Paniagua
-
-Autora: **Luz Ángela Carabalí Mulato** · [GitHub](https://github.com/luzangelacarabali) · [LinkedIn](https://www.linkedin.com/in/luz-angela-carabali-mulato-12b561306)
-
 ---
 
 Este repositorio reúne el entregable sobre **modelos de difusión** para generación de imágenes. Va desde entrenar un DDPM desde cero hasta desarmar Stable Diffusion pieza por pieza, y termina con un documento sobre la arquitectura de los modelos actuales de generación de video.
